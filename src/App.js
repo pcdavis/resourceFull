@@ -17,6 +17,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           This React template uses Material Design in the front end and a Node Server on the backend.
+          test of git remote
         </p>
       </div>
       <h3> Material Buttons </h3>
